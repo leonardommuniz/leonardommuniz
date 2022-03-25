@@ -16,17 +16,17 @@
 
 <div style="display: inline" align="center">
   <a href="https://github.com/leonardommuniz"></a>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=leonardommuniz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardommuniz&layout=compact&langs_count=5&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardommuniz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardommuniz&layout=compact&langs_count=5&theme=dark"/>
 </div>
   
 ##
  
-<div> 
- <a href="https://discord.gg/MNXWXZuz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leonardomuniz1info@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leoomuniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<div>
   ![Snake animation](https://github.com/leonardommuniz/leonardommuniz/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+<div> 
+   <a href="https://discord.gg/MNXWXZuz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:leonardomuniz1info@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/leoomuniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>  
