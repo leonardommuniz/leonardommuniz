@@ -1,9 +1,9 @@
 ### 
 <div style="display: inline">
-  <div width="50%"><img src="https://i.picasion.com/pic92/59ec3e650ab9c78dc557c5c0557efc60.gif" width="150" height="150" alt="Leo-gif"/></div>
-  <div width="50%"><span> Olaa, me chamo Leonardo Muniz .<br> Seja bem-vindo ao meu perfil no GitHub ✌😉</span></div>
+  <div align="center" width="50%"><img src="https://i.picasion.com/pic92/59ec3e650ab9c78dc557c5c0557efc60.gif" width="150" height="150" alt="Leo-gif"/></div>
+  <div align="center" width="50%"><span> Olaa, me chamo Leonardo Muniz .<br> Seja bem-vindo ao meu perfil no GitHub ✌😉</span></div>
 </div>
-<div style="display: inline"><br>
+<div align="center" style="display: inline"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Leo-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
@@ -13,8 +13,6 @@
 </div>
 
 ##
-Here are some ideas to get you started:
-
 
 <div align="center">
   <a href="https://github.com/leonardommuniz"></a>
