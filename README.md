@@ -22,7 +22,7 @@
   
 ##
  
-<div>
+<div align="center">
   
   ![Snake animation](https://github.com/leonardommuniz/leonardommuniz/blob/output/github-contribution-grid-snake.svg)
 
